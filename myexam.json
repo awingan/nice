@@ -46,12 +46,12 @@
   },
     {
     "id": 6,
-    "name": "Malapascua Island",
-    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/6Malapascua.jpg",
+    "name": "Bangui WIndmills",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/5.jpg",
     "price": 711,
     "priceCurrency": "km",
-    "lat": 11.335174, 
-    "lng": 124.115333
+    "lat": 18.528562, 
+    "lng": 120.718124
   },
     {
     "id": 7,
@@ -91,12 +91,12 @@
   },
     {
     "id": 11,
-    "name": "Banaue-Rice-Terraces",
-    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/12Banaue-Rice-Terraces-.jpg",
+    "name": "Tinago Falls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/7.jpg",
     "price": 215.2,
     "priceCurrency": "km",
-    "lat": 16.923888, 
-    "lng": 121.055621
+    "lat": 8.159270,
+    "lng": 124.185973
   },
   {
     "id": 12,
