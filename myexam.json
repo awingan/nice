@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Cathedral Falls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/1.jpg",
+    "price": 184.7,
+    "priceCurrency": "km",
+    "lat": 7.870576,
+    "lng": 123.771660
+  },
+  {
+    "id": 2,
+    "name": "Nagaparan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/2.jpg",
+    "price": 880.6,
+    "priceCurrency": "km",
+    "lat": 17.786609,
+    "lng": 120.639515
+  },
+  {
+    "id": 3,
+    "name": "Batad Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/12.jpg",
+    "price": 705.9 ,
+    "priceCurrency": "km",
+   "lat": 16.935469, 
+    "lng": 121.134822
+  },
+  {
+    "id": 4,
+    "name": "Baguio Mountain View",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/4.jpg",
+    "price": 470.5,
+    "priceCurrency": "km",
+    "lat": 16.410906,
+    "lng": 120.578288
+  },
+  {
+    "id": 5,
+    "name": "Camiguin Island",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/5Camiguin-Island-Philippines.jpg",
+    "price": 1341.9,
+    "priceCurrency": "km",
+    "lat": 18.940958, 
+    "lng": 121.916318
+  },
+    {
+    "id": 6,
+    "name": "Malapascua Island",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/6Malapascua.jpg",
+    "price": 711,
+    "priceCurrency": "km",
+    "lat": 11.335174, 
+    "lng": 124.115333
+  },
+    {
+    "id": 7,
+    "name": "Kalanggaman Island",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/7kalanggaman-island-768x512.jpg",
+    "price": 739,
+    "priceCurrency": "km",
+    "lat": 11.114631, 
+    "lng": 124.251451
+  },
+    {
+    "id": 8,
+    "name": "Camotes Island",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/10.jpg",
+    "price": 970 ,
+    "priceCurrency": "km",
+    "lat": 10.665944, 
+    "lng": 124.357159
+  },
+    {
+    "id": 9,
+    "name": "Hinatuan-Enchanted-River",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/6.jpg",
+    "price": 16108,
+    "priceCurrency": "km",
+    "lat": 8.458775,
+    "lng": 126.354828
+  },
+    {
+    "id": 10,
+    "name": "Mayon Volcano Albay",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/11mayon.jpg",
+    "price": 755.6,
+    "priceCurrency": "km",
+    "lat": 13.253998, 
+    "lng": 123.684777
+  },
+    {
+    "id": 11,
+    "name": "Banaue-Rice-Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/jethrew/sherwinmar/master/qwerty/12Banaue-Rice-Terraces-.jpg",
+    "price": 215.2,
+    "priceCurrency": "km",
+    "lat": 16.923888, 
+    "lng": 121.055621
+  },
+  {
+    "id": 12,
+    "name": "Tambobong Beach Dasol",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/13.jpg",
+    "price": 699.2 ,
+    "priceCurrency": "km",
+    "lat": 15.926516, 
+    "lng": 119.776561
+
+  },
+   {
+    "id": 13,
+    "name": "Bahay Namin",
+    "imageUrl": "https://raw.githubusercontent.com/awingan/myexam/master/14.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.565246, 
+    "lng": 120.323137
+  } 
+]
